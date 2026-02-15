@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from bson import ObjectId
 
-client = MongoClient("mongodb+srv://youtubepy:youtubepy@cluster0.oqhrqvl.mongodb.net/", tlsAllowInvalidCertificates=True)
+client = MongoClient("Paste Your own URL", tlsAllowInvalidCertificates=True)
 #Not a good idea to include id and password in the code files
 #tlsAllowInvalidCertificates=True - Not a good way to handle ssl
 
