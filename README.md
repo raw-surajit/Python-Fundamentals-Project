@@ -1,7 +1,7 @@
-Python Mastery: Fundamentals, Databases & Data Science 🐍☕
+# Python Mastery: Fundamentals, Databases & Data Science 🐍☕
 This repository serves as a comprehensive documentation of my journey through the Python ecosystem. It transitions from core programming logic to professional database management and interactive data exploration.
 
-🚀 The Learning Roadmap
+## 🚀 The Learning Roadmap
 1. Core Python Engineering
 Logic & Control: Mastery of Conditionals, Loops, and Functions to solve complex engineering problems.
 
@@ -23,7 +23,7 @@ Phase 2: SQL Integration: Transitioning to structured relational data with SQLit
 
 Phase 3: Cloud NoSQL: The final professional implementation using MongoDB Atlas for scalable, cloud-based storage.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python 3.12+
 
 Databases: MongoDB Atlas (Cloud), SQLite3 (Local)
@@ -32,7 +32,7 @@ Tools: Jupyter Notebook, VS Code, Anaconda, Git/GitHub
 
 Key Libraries: pymongo, python-dotenv, requests
 
-🔧 Installation & Security
+## 🔧 Installation & Security
 Setup Instructions
 Clone the Repo: git clone https://github.com/raw-surajit/Python-Fundamentals-Project.git
 
